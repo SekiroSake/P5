@@ -98,10 +98,10 @@ Here I'll talk about the approach I took, what techniques I used, what worked an
 [//]: # "Image References"
 [image1]: ./examples/car.png
 [image1_1]: ./examples/notcar.png
-[image2]: ./examples/hot_ex.png.png
+[image2]: ./examples/hot_ex.png
 [image3]: ./examples/slidingwindows.png
 [image4]: ./examples/slidingwindow.png
 [image5]: ./examples/bboxes_and_heat.png
 [image6]: ./examples/labels_map.png
-[image7]: ./examples/final.png.png
+[image7]: ./examples/final.png
 [video1]: ./project_video.mp4
