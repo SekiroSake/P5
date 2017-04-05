@@ -103,6 +103,7 @@ Here's an example result showing the heatmap from a series of frames of video, t
 
 ###Discussion
 
-####1. Problems / issues.
+#### Problems / issues.
 
-Here I'll talk about the approach I took, what techniques I used, what worked and why, where the pipeline might fail and how I might improve it if I were going to pursue this project further.  
+- The pipeline still cannot 100% detect cars in the frame.
+- In some situations, especially when there are shadows, non-vehicle objects will be detected as vehicles
