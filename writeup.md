@@ -18,9 +18,9 @@ The goals / steps of this project are the following:
 [image1_1]: ./examples/car.png
 [image1_2]: ./examples/notcar.png
 [image2]: ./examples/hot_ex.png
-[image3]: ./examples/sliding_windows.jpg
+[image3]: ./examples/slidingwindows.png
 [image4]: ./examples/sliding_window.jpg
-[image5]: ./examples/theheat.png.png
+[image5]: ./examples/theheat.png
 [image7]: ./examples/output_bboxes.png
 [video1]: ./project_video.mp4
 
