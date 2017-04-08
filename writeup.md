@@ -63,7 +63,7 @@ First, I extracted car_features and notcar_features from the data set. Then proc
 
 #### 1. Sliding window search.
 
-In order to make reasonable detection, I only made sliding windows that covers the road, which are at the lower part of the picture:
+In order to make reasonable detection, I only made sliding windows that covered the road, which are at the lower part of the picture:
 
 ![alt text][image3]
 
